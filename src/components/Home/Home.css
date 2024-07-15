@@ -1,0 +1,44 @@
+.home-container {
+    max-width: 800px;
+    margin: auto;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .filter-container {
+    margin-bottom: 20px;
+  }
+  
+  .filter-container label {
+    font-size: 1.2em;
+    margin-right: 10px;
+  }
+  
+  .filter-container select {
+    padding: 5px;
+    font-size: 1em;
+  }
+  
+  .bear-list {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .bear-list li {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 15px;
+    margin-bottom: 10px;
+    text-align: left;
+  }
+  
+  .bear-list h2 {
+    margin: 0 0 10px 0;
+    font-size: 1.5em;
+  }
+  
+  .bear-list p {
+    margin: 5px 0;
+    font-size: 1em;
+  }
+  
